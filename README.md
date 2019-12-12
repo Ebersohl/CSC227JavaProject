@@ -1,2 +1,2 @@
 # CSC227JavaProject
-Attampt at makign a calculator web app in Java
+Attempt at making a calculator web app in Java
