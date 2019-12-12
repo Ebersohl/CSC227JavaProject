@@ -1,0 +1,41 @@
+body {
+	font-family: sans-serif;
+}
+
+.histList h1 {
+	font-size: 16pt;
+}
+
+.histList ul {
+	list-style: none;
+	margin-left: 0px;
+	padding-left: 0px;
+} 
+
+.histList ul li:first-child {
+	border-top: 0px;
+} 
+
+.histList ul li {
+	border-top: 1px solid #cccccc;
+} 
+
+.firstNum {
+	font-size: 8pt;
+}
+
+.operation {
+	font-size: 8pt;
+}
+
+.secondNum {
+	font-size: 8pt;
+}
+
+.output {
+	font-size: 8pt;
+}
+
+.calcForm h1 {
+	font-size: 16pt;
+}
